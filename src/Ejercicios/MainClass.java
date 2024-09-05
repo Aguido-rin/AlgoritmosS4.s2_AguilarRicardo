@@ -24,7 +24,7 @@ public class MainClass {
         Matriz.PrintMatriz(A);
         mat.LastMat(A);
         
+        mat.MayVal(A);
         
-        //Estes es el cambio
     }
 }
