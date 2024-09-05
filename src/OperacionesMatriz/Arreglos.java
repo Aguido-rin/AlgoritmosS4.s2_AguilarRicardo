@@ -28,7 +28,7 @@ public class Arreglos {
         int A[][] = new int[nfilas][ncolumnas];
         for (int i = 0; i < nfilas; i++) {
             for (int j = 0; j < ncolumnas; j++) {
-                A[i][j] = rd.nextInt(10);
+                A[i][j] = rd.nextInt(99)+1;
             }
         }
         return A;
