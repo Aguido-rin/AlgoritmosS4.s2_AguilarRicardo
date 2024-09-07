@@ -2,12 +2,11 @@ package Ejercicios;
 
 import OperacionesMatriz.Arreglos;
 import javax.swing.JOptionPane;
-
 /**
  * Crear una matriz de 2 filas y 5 columnas y pasar a un vector todos los
  * números de 2 dígitos, luego imprima el vector.
  *
- * @author Sergio
+ * @author SergioSenior
  */
 public class Ejercicio4 {
 

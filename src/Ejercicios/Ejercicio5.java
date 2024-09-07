@@ -1,10 +1,9 @@
-package Matrices;
-
+package Ejercicios;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-public class MatrizDiagonal {
+public class Ejercicio5 {
 
     public static void main(String[] args) {
 
